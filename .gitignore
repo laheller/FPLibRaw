@@ -67,3 +67,9 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+/lib/x86_64-win64
+/backup
+*.cr2
+*.bmp
+*.jpg
+*.tiff

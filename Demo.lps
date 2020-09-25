@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="Demo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="43"/>
+        <CursorPos Y="61"/>
+        <UsageCount Value="70"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="libraw.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LibRaw"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="65"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\rtl\win64\system.pp"/>
+        <UnitName Value="System"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="103"/>
+        <CursorPos X="35" Y="121"/>
+        <UsageCount Value="7"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\rtl\win\sysutils.pp"/>
+        <UnitName Value="SysUtils"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="6" Y="17"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\rtl\win64\windows.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\Lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1894"/>
+        <CursorPos X="6" Y="17"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\Lazarus\lcl\graphutil.pp"/>
+        <UnitName Value="GraphUtil"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="473"/>
+        <CursorPos X="6" Y="17"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\packages\fcl-image\src\fpimage.pp"/>
+        <UnitName Value="FPImage"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="187"/>
+        <CursorPos Y="37"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\Lazarus\fpc\3.2.0\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1344"/>
+        <CursorPos X="10" Y="1358"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="88" TopLine="71"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="87" TopLine="74"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="90" TopLine="74"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="88" TopLine="69"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="71" TopLine="60"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="65" TopLine="51"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="93" TopLine="69"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="97" TopLine="82"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="98" TopLine="81"/>
+      </Position9>
+      <Position10>
+        <Filename Value="libraw.pas"/>
+        <Caret Line="396" TopLine="382"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="64" TopLine="43"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="126" TopLine="115"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="127" TopLine="123"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="129" TopLine="111"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="128" Column="40" TopLine="113"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="127" TopLine="121"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="144" TopLine="130"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="141" Column="31" TopLine="131"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="143" TopLine="135"/>
+      </Position19>
+      <Position20>
+        <Filename Value="libraw.pas"/>
+        <Caret Line="243" TopLine="144"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="152" TopLine="136"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="32" TopLine="15"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="84" TopLine="70"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="77" TopLine="61"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="80" Column="33" TopLine="66"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="164" TopLine="138"/>
+      </Position26>
+      <Position27>
+        <Filename Value="libraw.pas"/>
+        <Caret Line="370" TopLine="355"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="100" TopLine="86"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Demo.pas"/>
+        <Caret Line="12" Column="34"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="img"/>
+        <DisplayStyle Value="wdfBinary"/>
+      </Item1>
+      <Item2>
+        <Expression Value="result"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+</CONFIG>
