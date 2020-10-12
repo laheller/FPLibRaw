@@ -84,7 +84,7 @@ begin
   err := libraw_unpack(handler);
   WriteLn('Unpack function: ' + libraw_unpack_function_name(handler));
   err := libraw_dcraw_process(handler);
-  err := libraw_dcraw_ppm_tiff_writer(handler, PChar(ReplaceStr(PChar(ParamStr(1)),'.cr2','.tiff')));
+  err := libraw_dcraw_ppm_tiff_writer(handler, PChar(ChangeFileExt(ParamStr(1),'.tiff')));
 
   { Query and display camera information. }
   imgParams := libraw_get_iparams(handler);
@@ -160,7 +160,7 @@ begin
   raw.Data := PByte(tmp.ToArray);
   bmp := TLazIntfImage.Create(0, 0);
   bmp.SetRawImage(raw, True);
-  bmp.SaveToFile(ReplaceStr(PChar(ParamStr(1)),'.cr2','.bmp'));
+  bmp.SaveToFile(ChangeFileExt(ParamStr(1),'.bmp'));
   tmp.Free;
 
   { Release memory allocated by [libraw_dcraw_make_mem_image] call. }
@@ -169,7 +169,7 @@ begin
   { Get thumbnail image from raw file and save to JPG. }
   err := libraw_unpack_thumb(handler);
   err := libraw_dcraw_process(handler);
-  err := libraw_dcraw_thumb_writer(handler, PChar(ReplaceStr(PChar(ParamStr(1)),'.cr2','.jpg')));
+  err := libraw_dcraw_thumb_writer(handler, PChar(ChangeFileExt(ParamStr(1),'.jpg')));
 
   { Release used libraw resources. }
   WriteLn('Cleaning up resources...' + #10#13);
